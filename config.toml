@@ -8,7 +8,7 @@ copyright = "Sergey Abramyan"
     name = "Sergey Abramyan"
 
 [permalinks]
-    post = "/blog/:year/:month/:day/:title/"
+    post = "/blog/:title/"
 
 [indexes]
     category = "categories"
@@ -19,6 +19,6 @@ copyright = "Sergey Abramyan"
     series-desc = "series-desc"
 
 [params]
-    description = "code by Sergey Abramyan"
+    description = "Sergey Abramyan"
     twitter = "https://twitter.com/sabramyan"
     github = "https://github.com/saa"
