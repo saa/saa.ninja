@@ -1,8 +1,7 @@
 baseurl = "http://saa.ninja/"
 languageCode = "en-us"
-title = "saa"
+title = "saa.ninja"
 theme = "hyde"
-copyright = "Sergey Abramyan"
 
 [author]
     name = "Sergey Abramyan"
@@ -19,6 +18,7 @@ copyright = "Sergey Abramyan"
     series-desc = "series-desc"
 
 [params]
+    copyright = "Sergey Abramyan"
     description = "Sergey Abramyan"
     twitter = "https://twitter.com/sabramyan"
     github = "https://github.com/saa"
